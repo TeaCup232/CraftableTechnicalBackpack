@@ -3,7 +3,7 @@
  Or you tired of caring so much about the space in your inventory?
 * Here is the solution for you:
  Now you can craft another one technical backpack!
-![image](https://user-images.githubusercontent.com/115377615/194730107-347243bc-fa22-476a-af26-86a3ccc0c840.png)
+![image](https://user-images.githubusercontent.com/115377615/194766504-f35e8213-cd4b-4ebf-9a13-d58a025269ed.png)
 
 # What does mod adds?
 * It adds 3 new blueprints
@@ -20,7 +20,7 @@
 
 # Technical backpack
 The list of the needed items so big it dont fit in the game crafting menu, I'll write it down below 
-![image](https://user-images.githubusercontent.com/115377615/194730107-347243bc-fa22-476a-af26-86a3ccc0c840.png)
+![image](https://user-images.githubusercontent.com/115377615/194766514-c8852fde-2f9b-4911-9e75-63780d05a6b6.png)
 
 You need: 
 * 1 cured bear hide, 

@@ -47,6 +47,6 @@ Here is the image of all the items you need to craft it:
 I personally dont recomend to craft more then 2 of this backpacks, it's already way enough
 # How to install
 * You need to download and install [MelonLoader.Installer.exe](https://github.com/ds5678/ModComponent)
-* Install [https://github.com/ds5678/ModComponent](https://github.com/ds5678/ModComponent) and its dependencies
+* Install https://github.com/ds5678/ModComponent/releases/download/5.1.4/ModComponent.dll and its dependencies
 * Move CraftableBackpack.modcomponent to Mods folder
 

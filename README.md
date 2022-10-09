@@ -28,6 +28,7 @@ You need:
 * 6 cured deer hide, 
 * 6 cured wolf pelts, 
 * 10 cured rabbit pelts, 
+* 4 dried guts
 * 1 moose hide bag, 
 * 1 bear skin bedroll, 
 * 2 nylon, 
